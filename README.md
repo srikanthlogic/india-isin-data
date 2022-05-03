@@ -1,6 +1,7 @@
 # India ISIN Data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6508187.svg)](https://doi.org/10.5281/zenodo.6508187) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/captn3m0/india-isin-data) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/captn3m0/india-isin-data) ![GitHub repo size](https://img.shields.io/github/repo-size/captn3m0/india-isin-data)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6508187.svg)](https://doi.org/10.5281/zenodo.6508187) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/captn3m0/india-isin-data) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/captn3m0/india-isin-data) ![GitHub repo size](https://img.shields.io/github/repo-size/captn3m0/india-isin-data) [![Generic badge](https://img.shields.io/badge/View_Data_on-Flat_Github-GREEN.svg)](https://flatgithub.com/captn3m0/india-isin)
+
 
 ISIN Data from various public securities.
 
